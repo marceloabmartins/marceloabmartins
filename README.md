@@ -1,12 +1,8 @@
-- 🔭 I’m currently working on technical support
-- 🌱 I’m currently learning software testing
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with computer engineering
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...-->
-- ⚡ Fun fact: "Only those who have flown, know why the birds sing..."
-- 📫 How to reach me:
+- 🔭 Atualmente trabalho com Suporte Técnico.
+- 🌱 Estou estudando Testes de Software.
+- 👯 Me interesso em projetos de código aberto.
+- ⚡ Curiosidade: "Só quem já voou, sabe por que os pássaros cantam..."
+- 📫 Como chegar até mim:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloabmartins/)](https://www.linkedin.com/in/marceloabmartins/)
 
 <!---
